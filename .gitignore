@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+### Maven ###
+target/
+
+### Java ###
+*.class
+*.log
